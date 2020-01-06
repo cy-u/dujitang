@@ -15,8 +15,5 @@
 
 ---
 
-欢迎关注我的微信公众号，接收更多好玩的东西。
-
-<div align="center"><img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/></div>
 
 [nows]: https://github.com/egotong/nows
